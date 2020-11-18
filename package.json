@@ -1,8 +1,8 @@
 {
-  "name": "@prihunt/site",
+  "name": "@pryhunt/site",
   "private": true,
   "version": "0.0.0",
-  "description": "The main webapp for Prihunt.",
+  "description": "The main webapp for Pryhunt.",
   "scripts": {
     "build": "grunt build",
     "dev": "grunt dev",

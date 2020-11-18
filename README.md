@@ -1,3 +1,3 @@
-# Prihunt
+# Pryhunt
 
-The main webapp for Prihunt.
+The main webapp for Pryhunt.
